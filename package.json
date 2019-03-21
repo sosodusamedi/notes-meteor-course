@@ -1,0 +1,23 @@
+{
+  "name": "short-lnk",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.1.5",
+    "bcrypt": "^3.0.4",
+    "history": "^4.7.2",
+    "meteor-node-stubs": "^0.4.1",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "simpl-schema": "^1.5.5"
+  },
+  "engines": {
+    "node": "v8.11.4"
+  }
+}
