@@ -21,3 +21,5 @@ accounts-password
 meteor
 session
 fourseven:scss
+cultofcoders:mocha
+react-meteor-data
