@@ -23,9 +23,9 @@ class Editor extends Component {
     if (this.props.note) {
       return (
         <div>
-          <input 
+          <input
             value={this.props.note.title}
-            placeholder="Your note here"
+            placeholder="Untitled note"
             onChange={this.handleTitleChange.bind(this)} />
           <textarea
             value={this.props.note.body}
